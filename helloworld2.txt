@@ -1,3 +1,3 @@
-dan dan
 i just update some code in here
 pretty cool, yes ? huh
+so unlike developer 2, what i do is i do some random this here and push to PROD
